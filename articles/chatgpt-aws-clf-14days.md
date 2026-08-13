@@ -3,7 +3,7 @@ title: "14日間、ほぼChatGPTだけでAWS CLFに合格した話"
 emoji: "☁️"
 type: "tech"
 topics: ["aws", "chatgpt", "clf"]
-published: false
+published: true
 ---
 
 # はじめに
