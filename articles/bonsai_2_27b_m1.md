@@ -3,7 +3,7 @@ title: "Ternary Bonsai 2 27BをM1Pro・16GBで動かす"
 emoji: "🌱"
 type: "tech"
 topics: ["llamacpp", "llm", "mac", "ローカルllm", "codex"]
-published: false
+published: true
 ---
 こんにちは、はたけです。
 今回はM1 Pro・メモリ16GBのMacBook Proで、Ternary Bonsai 2 27Bを動かしてみました。PrismML公式のllama.cpp forkをソースからビルドし、日本語の応答が返るところまで確認できました。
